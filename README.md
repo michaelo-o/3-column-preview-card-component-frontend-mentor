@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-* **Live Site URL**: [https://your-live-site-url.com](https://your-live-site-url.com)
+* **Live Site URL**: [https://michaelo-o.github.io/3-column-preview-card-component-frontend-mentor/](https://michaelo-o.github.io/3-column-preview-card-component-frontend-mentor/)
 
 ---
 
